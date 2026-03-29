@@ -116,16 +116,18 @@ cd HospitalResourceManagement
 Run the Application
 mvn spring-boot:run
 
-🔹 Future Enhancements 🚀
-Implement JWT Authentication
-Add Role-Based Access Control (Admin / Doctor / Patient)
-Integrate Spring Security
-Add API validation and global exception handling
-Dockerize the application
-Integrate frontend using React
-Add logging and monitoring (ELK / Prometheus)
-Implement caching (Redis) for performance optimization
-Add Swagger/OpenAPI documentation
+---
 
-🔹 Author
+### Future Enhancements
+- Implement JWT Authentication
+- Add Role-Based Access Control (Admin / Doctor / Patient)
+- Integrate Spring Security
+- Add API validation and global exception handling
+- Dockerize the application
+- Integrate frontend using React
+- Add logging and monitoring (ELK / Prometheus)
+- Implement caching (Redis) for performance optimization
+- Add Swagger/OpenAPI documentation
+
+### Author
 Tejas Gholap
