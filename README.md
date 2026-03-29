@@ -118,7 +118,7 @@ mvn spring-boot:run
 
 ---
 
-### Future Enhancements
+## Future Enhancements
 - Implement JWT Authentication
 - Add Role-Based Access Control (Admin / Doctor / Patient)
 - Integrate Spring Security
@@ -129,5 +129,7 @@ mvn spring-boot:run
 - Implement caching (Redis) for performance optimization
 - Add Swagger/OpenAPI documentation
 
-### Author
+---
+
+## Author
 Tejas Gholap
